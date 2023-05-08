@@ -1,6 +1,10 @@
 # APT Notes
 This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
 
+#ATTENTION: THIS REPO WILL BE RETIRED ON 5/31/16 - please use https://github.com/aptnotes/data going forward - THANK YOU!
+
+ +[![Join the chat at https://gitter.im/kbandla/APTnotes](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kbandla/APTnotes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Contributing
 For the moment, it would be nice to have a PDF of the article that we add to the list, just to be sure we always have a copy.
 
@@ -19,8 +23,33 @@ If you have any questions, please reach out to @krmaxwell or me.
 The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section contains historical documents.
 
 ## 2015
+* Dec 16 - [APT28 Under the Scope -  A Journey into Exfiltrating Intelligence and Government Information](http://download.bitdefender.com/resources/media/materials/white-papers/en/Bitdefender_In-depth_analysis_of_APT28%E2%80%93The_Political_Cyber-Espionage.pdf)
+* Dec 08 - [Packrat: Seven Years of a South American Threat Actor](https://citizenlab.org/2015/12/packrat-report/)
+* Dec 07 - [Iran-based attackers use back door threats to spy on Middle Eastern targets](http://www.symantec.com/connect/blogs/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets)
+* Dec 07 - [Financial Threat Group Targets Volume Boot Record](https://www.fireeye.com/blog/threat-research/2015/12/fin1-targets-boot-record.html)
+* Dec 01 - [China-based Cyber Threat Group Uses Dropbox for Malware Communications and Targets Hong Kong Media Outlets](https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html)
+* Nov 24 - [Attack Campaign on the Government of Thailand Delivers Bookworm Trojan](http://researchcenter.paloaltonetworks.com/2015/11/attack-campaign-on-the-government-of-thailand-delivers-bookworm-trojan/)
+* Nov 18 - [Sakula Reloaded](http://www.crowdstrike.com/blog/sakula-reloaded/)
+* Nov 16 - [WitchCoven: Exploiting Web Analytics to Ensnare Victims](https://www2.fireeye.com/rs/848-DID-242/images/rpt-witchcoven.pdf)
+* Nov 10 - [Bookworm Trojan: A Model of Modular Architecture](http://researchcenter.paloaltonetworks.com/2015/11/bookworm-trojan-a-model-of-modular-architecture/)
+* Nov 09 - [Rocket Kitten: A Campaign With 9 Lives](http://blog.checkpoint.com/wp-content/uploads/2015/11/rocket-kitten-report.pdf)
+* Oct 16 - [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](https://citizenlab.org/2015/10/targeted-attacks-ngo-burma/)
+* Sep 23 - [Project Camerashy: Closing The Aperture On China's Unit 78020](https://www.threatconnect.com/camerashy/)
+* Sep 17 - [The Dukes: 7 Years of Russian Espionage](https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf)
+* Sep 16 - [Operation Iron Tiger](http://newsroom.trendmicro.com/blog/operation-iron-tiger-attackers-shift-east-asia-united-states)
+* Sep 15 - [Targeted Attack Distributes PlugX in Russia](https://www.proofpoint.com/us/threat-insight/post/PlugX-in-Russia)
+* Sep 09 - [Satellite Turla: APT Command and Control in the Sky](https://securelist.com/blog/research/72081/satellite-turla-apt-command-and-control-in-the-sky/)
+* Sep 01 - [The Spy Kittens Are Back: Rocket Kitten 2](https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf)
+* Aug 20 - [PlugX Threat Activity in Myanmar](http://pages.arbornetworks.com/rs/082-KNA-087/images/ASERT%20Threat%20Intelligence%20Brief%202015-05%20PlugX%20Threat%20Activity%20in%20Myanmar.pdf)
+* Aug 20 - [New activity of the Blue Termite APT](https://securelist.com/blog/research/71876/new-activity-of-the-blue-termite-apt/)
+* Aud 19 - [New Internet Explorer zero-day exploited in Hong Kong attacks](http://www.symantec.com/connect/blogs/new-internet-explorer-zero-day-exploited-hong-kong-attacks)
+* Aug 08 - [Poison Ivy and Links to an Extended PlugX Campaign](http://www.cyintanalysis.com/threat-analysis-poison-ivy-and-links-to-an-extended-plugx-campaign/)
+* Aug 05 - [Threat Group-3390 Targets Organizations for Cyberespionage](http://www.secureworks.com/cyber-threat-intelligence/threats/threat-group-3390-targets-organizations-for-cyberespionage/)
+* Aug 04 - [Terracotta VPN: Enabler of Advanced Threat Anonymity](https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/)
+* Jul 31 - [Operation Potao Express](http://www.welivesecurity.com/2015/07/30/operation-potao-express/) - [IOC](https://github.com/eset/malware-ioc/tree/master/potao)
 * Jul 28 - [Black Vine: Formidable cyberespionage group targeted aerospace, healthcare since 2012](http://www.symantec.com/connect/blogs/black-vine-formidable-cyberespionage-group-targeted-aerospace-healthcare-2012)
 * Jul 27 - [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](https://www.fireeye.com/blog/threat-research/2015/07/hammertoss_stealthy.html)
+* Jul 23 - [PoisonIvy adapts to communicate through Authentication Proxies](http://blog.jpcert.or.jp/2015/07/poisonivy-adapts-to-communicate-through-authentication-proxies.html)
 * Jul 22 - [Duke APT group's latest tools: cloud services and Linux support](https://www.f-secure.com/weblog/archives/00002822.html)
 * Jul 20 - [China Hacks the Peace Palace: All Your EEZ’s Are Belong to Us](http://www.threatconnect.com/news/china-hacks-the-peace-palace-all-your-eezs-are-belong-to-us/)
 * Jul 20 - [Watering Hole Attack on Aerospace Firm Exploits CVE-2015-5122 to Install IsSpace Backdoor](http://researchcenter.paloaltonetworks.com/2015/07/watering-hole-attack-on-aerospace-firm-exploits-cve-2015-5122-to-install-isspace-backdoor/)
@@ -28,6 +57,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jul 13 - ["Forkmeiamfamous": Seaduke, latest weapon in the Duke armory](http://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory)
 * Jul 09 - [Butterfly: Corporate spies out for financial gain](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/butterfly-corporate-spies-out-for-financial-gain.pdf)
 * Jul 08 - [Wild Neutron – Economic espionage threat actor returns with new tricks](https://securelist.com/blog/research/71275/wild-neutron-economic-espionage-threat-actor-returns-with-new-tricks/)
+* Jul 08 - [APT Group Wekby Leveraging Adobe Flash Exploit CVE-2015-5119](http://www.volexity.com/blog/?p=158)
 * Jun 30 - [Dino – the latest spying malware from an allegedly French espionage group analyzed](http://www.welivesecurity.com/2015/06/30/dino-spying-malware-analyzed)
 * Jun 28 - [APT on Taiwan - insight into advances of adversary TTPs](http://blog.dragonthreatlabs.com/2015/07/dtl-06282015-01-apt-on-taiwan-insight.html)
 * Jun 26 - [Operation Clandestine Wolf – Adobe Flash Zero-Day in APT3 Phishing Campaign](https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html)
@@ -35,6 +65,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jun 22 - [Winnti targeting pharmaceutical companies](https://securelist.com/blog/research/70991/games-are-over/)
 * Jun 16 - [Operation Lotus Bloom](https://www.paloaltonetworks.com/resources/research/unit42-operation-lotus-blossom.html)
 * Jun 15 - [Targeted Attacks against Tibetan and Hong Kong Groups Exploiting CVE-2014-4114](https://citizenlab.org/2015/06/targeted-attacks-against-tibetan-and-hong-kong-groups-exploiting-cve-2014-4114/)
+* Jun 12 - [Afghan Government Compromise: Browser Beware](http://www.volexity.com/blog/?p=134)
 * Jun 10 - [The_Mystery_of_Duqu_2_0](https://securelist.com/files/2015/06/The_Mystery_of_Duqu_2_0_a_sophisticated_cyberespionage_actor_returns.pdf) [IOC](https://securelist.com/files/2015/06/7c6ce6b6-fee1-4b7b-b5b5-adaff0d8022f.ioc) [Yara](https://securelist.com/files/2015/06/Duqu_2_Yara_rules.pdf)
 * Jun 10 - [Crysys Lab - Duqu 2.0](http://blog.crysys.hu/2015/06/duqu-2-0/)
 * Jun 04 - [Blue Thermite targeting Japan (CloudyOmega)](http://internet.watch.impress.co.jp/docs/news/20150604_705541.html)
@@ -77,7 +108,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Feb 16 - [Operation Arid Viper](http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-arid-viper-bypassing-the-iron-dome)
 * Feb 16 - [The Carbanak APT](https://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)
 * Feb 16 - [Equation: The Death Star of Malware Galaxy](https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/)
-* Feb 10 - [CrowdStrike Global Threat Intel Report for 2014](http://go.crowdstrike.com/rs/crowdstrike/images/GlobalThreatIntelReport.pdf)
+* Feb 10 - [CrowdStrike Global Threat Intel Report for 2014](http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf))
 * Feb 04 - [Pawn Storm Update: iOS Espionage App Found](http://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-update-ios-espionage-app-found/)
 * Feb 02 - [Behind the Syrian Conflict’s Digital Frontlines](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-behind-the-syria-conflict.pdf)
 * Jan 29 - [Analysis of PlugX Variant - P2P PlugX ](http://blog.jpcert.or.jp/.s/2015/01/analysis-of-a-r-ff05.html)
@@ -178,10 +209,12 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Jun 20 - [Embassy of Greece Beijing](http://thegoldenmessenger.blogspot.de/2014/06/blitzanalysis-embassy-of-greece-beijing.html)
 * Jun 09 - [Putter Panda](http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf)
 * Jun 06 - [Illuminating The Etumbot APT Backdoor (APT12)](http://www.arbornetworks.com/asert/wp-content/uploads/2014/06/ASERT-Threat-Intelligence-Brief-2014-07-Illuminating-Etumbot-APT.pdf)
+* Jun 02 - [Molerats, Here for Spring!](https://www.fireeye.com/blog/threat-research/2014/06/molerats-here-for-spring.html)
 * May 21 - [RAT in jar: A phishing campaign using Unrecom](http://www.fidelissecurity.com/sites/default/files/FTA_1013_RAT_in_a_jar.pdf)
 * May 20 - [Miniduke Twitter C&C](http://www.welivesecurity.com/2014/05/20/miniduke-still-duking/)
 * May 13 - [CrowdStrike's report on Flying Kitten](http://blog.crowdstrike.com/cat-scratch-fever-crowdstrike-tracks-newly-reported-iranian-actor-flying-kitten/)
 * May 13 - [Operation Saffron Rose (aka Flying Kitten)](http://www.fireeye.com/resources/pdfs/fireeye-operation-saffron-rose.pdf)
+* May 02 - [Targeted Attacks, Stolen Certificates, and the Shiqiang Gang](https://blogs.mcafee.com/mcafee-labs/stolen-certificates-shiqiang-gang/)
 * Apr 26 - [CVE-2014-1776: Operation Clandestine Fox](https://www.fireeye.com/blog/threat-research/2014/05/operation-clandestine-fox-now-attacking-windows-xp-using-recently-discovered-ie-vulnerability.html)
 * Mar 08 - [Russian spyware Turla](http://www.reuters.com/article/2014/03/07/us-russia-cyberespionage-insight-idUSBREA260YI20140307)
 * Mar 07 - [Snake Campaign & Cyber Espionage Toolkit](http://info.baesystemsdetica.com/rs/baesystems/images/snake_whitepaper.pdf)
@@ -239,6 +272,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * May ?? - [Operation Hangover](https://www.bluecoat.com/security-blog/2013-05-20/hangover-report)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
 * Apr 21 - [MiniDuke - The Final Cut](http://labs.bitdefender.com/2013/04/miniduke-the-final-cut)
+* Apr 18 - [New Targeted Attack On Taiwanese Government & Tibetan Activists Open Up a Can Of Worms - GrayPigeon, Hangame & Shiqiang gang](https://www.fireeye.com/blog/threat-research/2013/04/new-targeted-attack-on-taiwanese-government-tibetan-activists-open-up-a-can-of-worms-graypigeon-hangame-shiqiang-gang.html)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 01 - [Trojan.APT.BaneChant](http://www.fireeye.com/blog/technical/malware-research/2013/04/trojan-apt-banechant-in-memory-trojan-that-observes-for-multiple-mouse-clicks.html)
 * Mar 28 - [TR-12 - Analysis of a PlugX malware variant used for targeted attacks](http://www.circl.lu/pub/tr-12/)
@@ -275,9 +309,12 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * May 31 - [sKyWIper (Flame/Flamer)](http://www.crysys.hu/skywiper/skywiper.pdf)
 * May 22 - [IXESHE An APT Campaign](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf)
 * May 18 - [Analysis of Flamer C&C Server](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_flamer_newsforyou.pdf)
+* May 15 - [The Shiqiang Gang](https://web.archive.org/web/20121030064334/http://blogs.norman.com/2012/security-research/the-shiqiang-gang)
 * Apr 16 - [OSX.SabPub & Confirmed Mac APT attacks](http://securelist.com/blog/incidents/33208/new-version-of-osx-sabpub-confirmed-mac-apt-attacks-19/)
 * Apr 10 - [Anatomy of a Gh0st RAT](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-know-your-digital-enemy.pdf)
 * Mar 26 - [Luckycat Redux](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_luckycat_redux.pdf)
+* Mar 21 - [From Georgia, with Love](http://blog.eset.com/2012/03/21/win32georbot-information-stealing-trojan-botnet-from-georgia-with-love)
+* Mar 21 - [CERT Georgia: Georbot Botnet](http://dea.gov.ge/uploads/CERT%20DOCS/Cyber%20Espionage.pdf)
 * Mar 13 - [Reversing DarkComet RAT's crypto](http://www.arbornetworks.com/asert/wp-content/uploads/2012/07/Crypto-DarkComet-Report.pdf)
 * Mar 12 - [Crouching Tiger, Hidden Dragon, Stolen Data](http://www.contextis.com/services/research/white-papers/crouching-tiger-hidden-dragon-stolen-data/)
 * Feb 29 - [The Sin Digoo Affair](http://www.secureworks.com/cyber-threat-intelligence/threats/sindigoo/)
